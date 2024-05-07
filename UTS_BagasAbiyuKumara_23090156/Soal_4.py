@@ -1,7 +1,9 @@
+import modul
+
 berat_badan = float(input("Masukkan berat badan (kg): "))
 tinggi_badan = float(input("Masukkan tinggi badan (m): "))
 
-bmi = berat_badan / (tinggi_badan ** 2)
+bmi = modul.hitung_bmi(berat_badan, tinggi_badan)
 
 print("Berat Badan Anda adalah:", berat_badan, "Kg")
 print("Tinggi Badan Anda adalah:", tinggi_badan, "M")
