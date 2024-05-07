@@ -1,2 +1,4 @@
 # UTS_BAGAS-ABIYU-KUMARA_23090156
-Nama = Bagas Abiyu Kumara NIM = 23090156
+Nama = Bagas Abiyu Kumara
+
+NIM = 23090156
